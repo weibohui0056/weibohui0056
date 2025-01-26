@@ -14,7 +14,8 @@
 “不断学习，不断进步。”
 
 ### GitHub Stats
-![Weibohui's GitHub stats](https://github-readme-stats.vercel.app/api?username=weibohui0056&show_icons=true&theme=radical)
+![Weibohui's GitHub stats](https://github-readme-stats.vercel.app/api?username=weibohui0056&show_icons=false&theme=Default)
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weibohui0056&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weibohui0056&layout=compact&theme=Default
+)
