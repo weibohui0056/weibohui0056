@@ -1,7 +1,7 @@
 **A loser**
 
 ### Visitors
-![Visitors](https://count.getloli.com/get/@weibohui0056?theme=3d-num)
+![Visitors](https://count.getloli.com/get/@weibohui0056?theme=booru-mof)
 
 ### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=weibohui0056&show_icons=false&theme=Default)
